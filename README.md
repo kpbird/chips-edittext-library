@@ -85,3 +85,6 @@ Step 5: Open your Activity class and write following code.
 Step 6: You need to use ChipsItem and ChipsAdapter to provide data. ChipsItem has two field 1. Title and 2. Image Id (R.drawable.android), In above sample I have created two array in string.xml for title and images.
 
 For more detail please refer : http://www.kpbird.com/2013/02/android-chips-edittext-token-edittext_26.html
+
+## License
+chips-edittext-library is released under the Apache License, Version 2.0. See [LICENSE](./LICENSE) for details.
